@@ -4,41 +4,41 @@ Este projeto é uma aplicação em Java desenvolvida para praticar Programação
 
 Ele demonstra conceitos essenciais como:
 
-Composição de classes
+.Composição de classes
 
-Uso de enums
+.Uso de enums
 
-Encapsulamento
+.Encapsulamento
 
-Coleções (List)
+.Coleções (List)
 
-Leitura de dados via Scanner
+.Leitura de dados via Scanner
 
-Cálculo de valores com base em regras de negócio
+.Cálculo de valores com base em regras de negócio
 
 - Funcionalidades
 
 Cadastro de:
 
-Departamento
+.Departamento
 
-Funcionário
+.Funcionário
 
-Contratos por hora
+.Contratos por hora
 
 - Cálculo automático da renda mensal com base:
 
-No salário base
+.No salário base
 
-Nos contratos realizados no mês informado
+.Nos contratos realizados no mês informado
 
 - Relatório final exibindo:
 
-Nome do funcionário
+.Nome do funcionário
 
-Departamento
+.Departamento
 
-Renda total do período
+.Renda total do período
 
 - Estrutura do Projeto
 
